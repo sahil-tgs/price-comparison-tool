@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+playwright
+crawl4ai
+streamlit
+pydantic
+httpx
+beautifulsoup4
+lxml
