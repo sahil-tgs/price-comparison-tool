@@ -1,4 +1,4 @@
-Setup:
+## Setup:
 1. clone repo
 2. ``` cd price-comparison-tool ```
 3. create .venv ``` python3 -m venv .venv ```
